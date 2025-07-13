@@ -1,2 +1,3 @@
 # addon
 Genshoe addon blender
+Genshoe is a powerful and intuitive Blender add-on designed to speed up your 3D footwear workflow. Whether you’re working on fashion, stylized characters, or industrial design, Genshoe offers professional tools like UV mapping, automated stitching, and mesh extraction directly from UV layouts. With a focus on ease of use and production-ready results, Genshoe empowers artists and designers to realize their creative vision, faster and clearer than ever before.
